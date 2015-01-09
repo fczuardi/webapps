@@ -15,7 +15,7 @@ TERMOS E CONDIÇÕES.
 1\. Definições
 -------------
 
-**a. "Obra Derivada"** significa uma Obra baseada na Obra ou na
+a. **"Obra Derivada"** significa uma Obra baseada na Obra ou na
 Obra e outras Obras pré-existentes, tal qual uma tradução, adaptação, arranjo musical
 ou outras alterações de uma Obra literária, artística ou científica, ou fonograma ou
 performance, incluindo adaptações cinematográficas ou qualquer outra forma na qual a Obra possa
@@ -27,7 +27,7 @@ Obra for uma Obra musical, performance ou fonograma, a sincronização da
 Obra em relação cronometrada com uma imagem em movimento (“synching”)
 será considerada uma Obra Derivada para os propósitos desta Licença.
 
-**b. "Obra Coletiva"** significa uma coleção de Obras
+b. **"Obra Coletiva"** significa uma coleção de Obras
 literárias, artísticas ou científicas, tais quais enciclopédias e antologias, ou
 performances, fonogramas ou transmissões, ou outras Obras ou materiais
 não indicados na Seção 1(i) abaixo, que em razão da seleção e arranjo
@@ -39,7 +39,7 @@ um todo coletivo. A Obra que constituir uma Obra Coletiva não será
 considerada uma Obra Derivada (como definido acima) para os propósitos
 desta Licença.
 
-**c. "Licença Compatível Creative Commons"** significa uma
+c. **"Licença Compatível Creative Commons"** significa uma
 licença que se encontre listada no site
 https://creativecommons.org/compatiblelicenses, aprovada pela Creative
 Commons como sendo essencialmente equivalente a esta Licença, incluindo ao
@@ -50,24 +50,24 @@ licença, sob esta Licença, uma licença Creative Commons Unported ou uma
 licença Creative Commons de outra jurisdição com os mesmos Elementos da
 Licença desta Licença.
 
-**d. "Distribuir"** significa colocar à disposição do
+d. **"Distribuir"** significa colocar à disposição do
 público o original e cópias da Obra ou Obra Derivada, o que for
 apropriado, por meio de venda ou qualquer outra forma de transferência de
 propriedade ou posse.
 
-**e. "Elementos da Licença"** significam os principais
+e. **"Elementos da Licença"** significam os principais
 atributos da licença correspondente, conforme escolhidos pelo Licenciante
 e indicados no título desta licença: Atribuição,
 Compartilhamento pela mesma licença.
 
-**f. "Licenciante"** significa a pessoa física ou jurídica
+f. **"Licenciante"** significa a pessoa física ou jurídica
 que oferece a Obra sob os termos desta Licença.
 
-**g. "Autor Original"** significa, no caso de uma Obra
+g. **"Autor Original"** significa, no caso de uma Obra
 literária, artística ou científica, o indivíduo ou indivíduos que criaram a Obra
 ou, se nenhum indivíduo puder ser identificado, a editora.
 
-**h. "Titular de Direitos Conexos"** significa (i) no caso de
+h. **"Titular de Direitos Conexos"** significa (i) no caso de
 uma performance os atores, cantores, músicos, dançarinos, e outras
 pessoas que atuem, cantem, recitem, declamem, participem em, interpretem ou
 façam performances de Obras literárias ou artísticas ou expressões de
@@ -75,7 +75,7 @@ folclore (ii) no caso de um fonograma, o produtor, sendo este a pessoa ou
 entidade legal que primeiramente fixar os sons de uma performance ou outros
 sons; e (iii) no caso de radiodifusão, a empresa de radiodifusão.
 
-**i. "Obra"** significa a Obra literária, artística e/ou científica
+i. **"Obra"** significa a Obra literária, artística e/ou científica
 oferecida sob os termos desta Licença, incluindo, sem limitação,
 qualquer produção nos domínios literário, artístico e científico,
 qualquer que seja o modo ou a forma de sua expressão, incluindo a forma
@@ -95,13 +95,13 @@ seja protegida como uma Obra sujeita ao regime dos direitos autorais; ou
 uma Obra executada por artistas circenses ou de shows de variedade,
 conforme ela não for considerada uma Obra literária, artística ou científica.
 
-**j. "Você"** significa a pessoa física ou jurídica
+j. **"Você"** significa a pessoa física ou jurídica
 exercendo direitos sob esta Licença, que não tenha previamente violado os
 termos desta Licença com relação à Obra, ou que tenha recebido
 permissão expressa do Licenciante para exercer direitos sob esta Licença
 apesar de uma violação prévia.
 
-**k. "Executar Publicamente"** significa fazer a utilização
+k. **"Executar Publicamente"** significa fazer a utilização
 pública da Obra e comunicar ao público a Obra, por qualquer meio ou
 processo, inclusive por meios com ou sem fio ou performances públicas
 digitais; disponibilizar ao público Obras de tal forma que membros do
@@ -111,7 +111,7 @@ ou processo e comunicar ao público performances da Obra, inclusive por
 performance pública digital; transmitir e retransmitir a Obra por
 quaisquer meios, inclusive sinais, sons ou imagens.
 
-**l. "Reproduzir"** significa fazer cópias da Obra por
+l. **"Reproduzir"** significa fazer cópias da Obra por
 qualquer meio, inclusive, sem qualquer limitação, por gravação sonora
 ou visual, e o direito de fixar e Reproduzir fixações da Obra, inclusive
 o armazenamento de uma performance protegida ou fonograma, em forma digital
