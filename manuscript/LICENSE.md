@@ -123,7 +123,7 @@ ou qualquer outro meio eletrônico.
 Nada nesta licença deve ser interpretado de modo a reduzir,
 limitar ou restringir qualquer uso permitido de direitos autorais ou direitos
 decorrentes de limitações e exceções estabelecidas em conexão com a
-proteção autoral, sob a legislação autoral ou outras leis aplicáveis.</p>
+proteção autoral, sob a legislação autoral ou outras leis aplicáveis.
 
 3\. Concessão da Licença.
 --------------------------
@@ -136,7 +136,7 @@ abaixo:
 
 
 a. Reproduzir a Obra, incorporar a Obra em uma ou mais Obras Coletivas e
-Reproduzir a Obra quando incorporada em Obras Coletivas; </li>
+Reproduzir a Obra quando incorporada em Obras Coletivas;
 
 b.Criar e Reproduzir Obras Derivadas, desde que qualquer Obra Derivada,
 inclusive qualquer tradução, em qualquer meio, adote razoáveis medidas
@@ -168,7 +168,7 @@ Os direitos acima podem ser exercidos em todas as mídias e formatos,
 --------------
 
 A licença concedida na Seção 3 acima
-    está expressamente sujeita e limitada pelas seguintes restrições:</p>
+    está expressamente sujeita e limitada pelas seguintes restrições:
 
 a. Você pode Distribuir ou Executar Publicamente a Obra apenas sob os
     termos desta Licença, e Você deve incluir uma cópia desta Licença ou o
@@ -192,7 +192,7 @@ a. Você pode Distribuir ou Executar Publicamente a Obra apenas sob os
     solicitado. Se Você criar uma Obra Derivada, em havendo aviso de qualquer
     Licenciante, Você deve, na medida do possível, retirar da Obra Derivada
     qualquer crédito conforme estipulado na Seção 4(c), de acordo com o
-    solicitado.</li>
+    solicitado.
 
 b. Você pode Distribuir ou Executar Publicamente uma Obra Derivada somente
     sob: (i) os termos desta Licença; (ii) uma versão posterior desta
