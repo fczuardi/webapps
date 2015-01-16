@@ -22,6 +22,7 @@ Ferramentas
 |Typecheck              | -                 |flow                               |
 |Chat room              | -                 |gitter.im, IRC                     |
 |Animation              | -                 |Velocity.js                        |
+|Analytics/health       | -                 |[issuestats][12]                   |
 
 
 Convenções
@@ -40,3 +41,5 @@ Convenções
 [9]: http://formatjs.io/react/
 [10]: https://github.com/creationix/nvm
 [11]: http://www.invisionapp.com/
+
+[12]: http://issuestats.com/
