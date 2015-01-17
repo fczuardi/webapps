@@ -24,6 +24,9 @@ a uma url da sua aplicação:
 - e muitas outras, consulte a [lista de middlewares na wiki][5] ou busque por
 ["koa" no npm][6]
 
+## como pegar parametros passados por POST
+
+- [body-parser][7] é a resposta
 
 [1]: http://koajs.com/
 [2]: http://expressjs.com/
@@ -31,3 +34,4 @@ a uma url da sua aplicação:
 [4]: http://en.wikipedia.org/wiki/ECMAScript "Ecma Script"
 [5]: https://github.com/koajs/koa/wiki#middleware
 [6]: https://www.npmjs.com/search?q=koa
+[7]: https://github.com/koajs/body-parser
