@@ -16,13 +16,14 @@ Ferramentas
 |API backend            |[koa][8]           |                                   |
 |Internationalization   | -                 |[React Int][9]                     |
 |Design discussions     |[invisionapp][11]  |                                   |
+|Code Editor            |[atom][12]         |vim, sublime                       |
 |Tests                  | -                 |jasmine/karma                      |
 |JS Linter              | -                 |Closure Linter, JSHint, JSLint     |
 |Continuous Integration | -                 |Travis CI                          |
 |Typecheck              | -                 |flow                               |
 |Chat room              | -                 |gitter.im, IRC                     |
 |Animation              | -                 |Velocity.js                        |
-|Analytics/health       | -                 |[issuestats][12]                   |
+|Analytics/health       | -                 |[issuestats][13]                   |
 
 
 Outras
@@ -30,7 +31,7 @@ Outras
 
 |Função                 |Ferramenta         |A explorar |
 |-----------------------|-------------------|-----------|
-|Jquery no server       |[cheerio][13]      | -         |
+|Jquery no server       |[cheerio][14]      | -         |
 
 Convenções e boas práticas
 ---------------------------
@@ -49,5 +50,6 @@ Convenções e boas práticas
 [9]: http://koajs.com/
 [10]: http://formatjs.io/react/
 [11]: http://www.invisionapp.com/
-[12]: http://issuestats.com/
-[13]: https://github.com/cheeriojs/cheerio
+[12]: https://atom.io/
+[13]: http://issuestats.com/
+[14]: https://github.com/cheeriojs/cheerio
