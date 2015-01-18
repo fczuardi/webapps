@@ -32,13 +32,11 @@ Outras
 |-----------------------|-------------------|-----------|
 |Jquery no server       |[cheerio][13]      | -         |
 
-Convenções
------------
+Convenções e boas práticas
+---------------------------
 
-|Função                 | escolha       |
-|-----------------------|---------------|
-|Version numbers        |semver         |                                   |
-
+- http://semver.org/
+- http://en.wikipedia.org/wiki/Single_responsibility_principl
 
 [1]: http://nodejs.org
 [2]: http://iojs.org
