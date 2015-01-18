@@ -4,26 +4,27 @@ Escolhas
 Ferramentas
 -----------
 
-|Função                 |Ferramenta         |A explorar                         |
-|-----------------------|-------------------|-----------------------------------|
-|Scripts                |[node.js][1] 0.11.x|[io.js][2] 1.0.0-alpha             |
-|node version manager   |[nvm][10]          |                                   |
-|Build system           |[gulp][3]          |                                   |
-|JS Modules             |[browserify][4]    |                                   |
-|Bundle watcher         |[watchify][5]      |                                   |
-|Browser Reload         |[browsersync][6]   |                                   |
-|Components/Templates   |[React][7]         |                                   |
-|API backend            |[koa][8]           |                                   |
-|Internationalization   | -                 |[React Int][9]                     |
-|Design discussions     |[invisionapp][11]  |                                   |
-|Code Editor            |[atom][12]         |vim, sublime                       |
-|Tests                  | -                 |jasmine/karma                      |
-|JS Linter              | -                 |Closure Linter, JSHint, JSLint     |
-|Continuous Integration | -                 |Travis CI                          |
-|Typecheck              | -                 |flow                               |
-|Chat room              | -                 |gitter.im, IRC                     |
-|Animation              | -                 |Velocity.js                        |
-|Analytics/health       | -                 |[issuestats][13]                   |
+|Função                 |Ferramenta         |A explorar                      |
+|-----------------------|-------------------|--------------------------------|
+|Scripts                |[node.js][1] 0.11.x|[io.js][2] 1.0.0-alpha          |
+|node version manager   |[nvm][10]          |                                |
+|Build system           |[gulp][3]          |                                |
+|JS Modules             |[browserify][4]    |                                |
+|Bundle watcher         |[watchify][5]      |                                |
+|Browser Reload         |[browsersync][6]   |                                |
+|Components/Templates   |[React][7]         |                                |
+|API backend            |[koa][8]           |                                |
+|Internationalization   | -                 |[React Int][9]                  |
+|Design discussions     |[invisionapp][11]  |                                |
+|Code Editor            |[atom][12]         |vim, sublime                    |
+|Browser/Devtools       |[firefox developer edition][13]|                    |
+|Tests                  | -                 |jasmine/karma                   |
+|JS Linter              | -                 |Closure Linter, JSHint, JSLint  |
+|Continuous Integration | -                 |Travis CI                       |
+|Typecheck              | -                 |flow                            |
+|Chat room              | -                 |gitter.im, IRC                  |
+|Animation              | -                 |Velocity.js                     |
+|Analytics/health       | -                 |[issuestats][14]                |
 
 
 Outras
@@ -31,7 +32,8 @@ Outras
 
 |Função                 |Ferramenta         |A explorar |
 |-----------------------|-------------------|-----------|
-|Jquery no server       |[cheerio][14]      | -         |
+|Jquery no server       |[cheerio][15]      | -         |
+|Option parser          |[nomnom][16]       | -         |
 
 Convenções e boas práticas
 ---------------------------
@@ -51,5 +53,7 @@ Convenções e boas práticas
 [10]: http://formatjs.io/react/
 [11]: http://www.invisionapp.com/
 [12]: https://atom.io/
-[13]: http://issuestats.com/
-[14]: https://github.com/cheeriojs/cheerio
+[13]: https://www.mozilla.org/en-US/firefox/developer/
+[14]: http://issuestats.com/
+[15]: https://github.com/cheeriojs/cheerio
+[16]: https://github.com/harthur/nomnom
