@@ -17,17 +17,16 @@ Ferramentas
 |Browser/Devtools       |[firefox developer edition][10]|                    |
 |Code Editor            |[zed][11]          |                                |
 |Version Control        |[git][12]          |                                |
-|git GUI - commit       |[git-cola][13]     |                                |
-|git GUI - history      |[gitg][14]         |                                |
-|Design discussions     |[invisionapp][15]  |                                |
-|Internationalization   | -                 |[React Int][16]                 |
+|git GUI                |[git-cola][13]     |                                |
+|Design discussions     |[invisionapp][14]  |                                |
+|Internationalization   | -                 |[React Int][15]                 |
 |Tests                  | -                 |jasmine/karma                   |
 |JS Linter              | -                 |Closure Linter, JSHint, JSLint  |
 |Continuous Integration | -                 |Travis CI                       |
 |Typecheck              | -                 |flow                            |
 |Chat room              | -                 |gitter.im, IRC                  |
 |Animation              | -                 |Velocity.js                     |
-|Analytics/health       | -                 |[issuestats][17]                |
+|Analytics/health       | -                 |[issuestats][16]                |
 
 
 Outras
@@ -35,8 +34,8 @@ Outras
 
 |Função                 |Ferramenta         |A explorar |
 |-----------------------|-------------------|-----------|
-|Jquery no server       |[cheerio][18]      | -         |
-|Option parser          |[nomnom][19]       | -         |
+|Jquery no server       |[cheerio][17]      | -         |
+|Option parser          |[nomnom][18]       | -         |
 
 Convenções e boas práticas
 ---------------------------
@@ -57,9 +56,8 @@ Convenções e boas práticas
 [11]: http://zedapp.org/
 [12]: http://git-scm.com/
 [13]: http://git-cola.github.io
-[14]: https://wiki.gnome.org/Apps/Gitg
-[15]: http://www.invisionapp.com/
-[16]: http://formatjs.io/react/
-[17]: http://issuestats.com/
-[18]: https://github.com/cheeriojs/cheerio
-[19]: https://github.com/harthur/nomnom
+[14]: http://www.invisionapp.com/
+[15]: http://formatjs.io/react/
+[16]: http://issuestats.com/
+[17]: https://github.com/cheeriojs/cheerio
+[18]: https://github.com/harthur/nomnom
