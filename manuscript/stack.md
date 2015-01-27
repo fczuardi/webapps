@@ -30,6 +30,7 @@ Ferramentas
 |Analytics/health       | -                     |[issuestats][issuestats]   |
 |Android WebView        | -                     |[crosswalk][crosswalk]     |
 |Voxel games            | -                     |[voxeljs][voxeljs]         |
+|Android testing        | -                     |[testfairy][testfairy]     |
 
 
 Outras
@@ -57,6 +58,7 @@ Outras
 [react]: http://facebook.github.io/react/
 [reactjs]: http://formatjs.io/react/
 [riotjs]: https://muut.com/riotjs/compare.html
+[testfairy]: http://testfairy.com
 [voxeljs]: http://voxeljs.com/
 [watchify]: http://truongtx.me/2014/08/06/using-watchify-with-gulp-for-fast-browserify-build/
 [zed]: http://zedapp.org/
