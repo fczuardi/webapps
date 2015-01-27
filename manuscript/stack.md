@@ -28,7 +28,7 @@ Ferramentas
 |Chat room              | -                     |gitter.im, IRC             |
 |Animation              | -                     |Velocity.js                |
 |Analytics/health       | -                     |[issuestats][issuestats]   |
-|Android WebView        | -                     |[crosswalk][crosswalk]     |
+|Android WebView        | -                     |[crosswalk][crosswalk], [cocoonjs][cocoonjs] |
 |Voxel games            | -                     |[voxeljs][voxeljs]         |
 |Android testing        | -                     |[testfairy][testfairy]     |
 
@@ -43,6 +43,7 @@ Outras
 [browserify]: http://browserify.org/
 [browsersync]: http://www.browsersync.io/
 [cheerio]: https://github.com/cheeriojs/cheerio
+[cocoonjs]: https://www.ludei.com/cocoonjs/
 [crosswalk]: https://crosswalk-project.org/
 [firefoxdev]: https://www.mozilla.org/en-US/firefox/developer/
 [git]: http://git-scm.com/
