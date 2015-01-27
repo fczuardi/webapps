@@ -4,29 +4,31 @@ Escolhas
 Ferramentas
 -----------
 
-|Função                 |Ferramenta         |A explorar                      |
-|-----------------------|-------------------|--------------------------------|
-|Scripts                |[io.js][1]         |                                |
-|"node" version manager |[nvm][2]           |                                |
-|Build system           |[gulp][3]          |                                |
-|JS Modules             |[browserify][4]    |                                |
-|Bundle watcher         |[watchify][5]      |                                |
-|Browser Reload         |[browsersync][6]   |                                |
-|Components/Templates   |[React][7]         |[Riot][8]                       |
-|API backend            |[koa][9]           |                                |
-|Browser/Devtools       |[firefox developer edition][10]|                    |
-|Code Editor            |[zed][11]          |                                |
-|Version Control        |[git][12]          |                                |
-|git GUI                |[git-cola][13]     |                                |
-|Design discussions     |[invisionapp][14]  |                                |
-|Internationalization   | -                 |[React Int][15]                 |
-|Tests                  | -                 |jasmine/karma                   |
-|JS Linter              | -                 |Closure Linter, JSHint, JSLint  |
-|Continuous Integration | -                 |Travis CI                       |
-|Typecheck              | -                 |flow                            |
-|Chat room              | -                 |gitter.im, IRC                  |
-|Animation              | -                 |Velocity.js                     |
-|Analytics/health       | -                 |[issuestats][16]                |
+|Função                 |Ferramenta             |A explorar                 |
+|-----------------------|-----------------------|---------------------------|
+|Scripts                |[io.js][iojs]          |                           |
+|"node" version manager |[nvm][nvm]             |                           |
+|Build system           |[gulp][gulp]           |                           |
+|JS Modules             |[browserify][browserify]|                          |
+|Bundle watcher         |[watchify][watchify]   |                           |
+|Browser Reload         |[browsersync][browsersync]|                        |
+|Components/Templates   |[React][react]         |[Riot][riotjs]             |
+|API backend            |[koa][koa]             |                           |
+|Browser/Devtools       |[firefox developer edition][firefoxdev]|           |
+|Code Editor            |[zed][zed]             |                           |
+|Version Control        |[git][git]             |                           |
+|git GUI                |[git-cola][gitcola]    |                           |
+|Design discussions     |[invisionapp][invision]|                           |
+|Game Engine            |[phaserjs][phaserjs]   |                           |
+|Internationalization   | -                     |[React Int][reactjs]       |
+|Tests                  | -                     |jasmine/karma              |
+|JS Linter              | -                     |Closure Linter, JSHint, JSLint|
+|Continuous Integration | -                     |Travis CI                  |
+|Typecheck              | -                     |flow                       |
+|Chat room              | -                     |gitter.im, IRC             |
+|Animation              | -                     |Velocity.js                |
+|Analytics/health       | -                     |[issuestats][issuestats]   |
+|Android WebView        | -                     |[crosswalk][crosswalk]     |
 
 
 Outras
@@ -34,30 +36,26 @@ Outras
 
 |Função                 |Ferramenta         |A explorar |
 |-----------------------|-------------------|-----------|
-|Jquery no server       |[cheerio][17]      | -         |
-|Option parser          |[nomnom][18]       | -         |
+|Jquery no server       |[cheerio][cheerio] | -         |
 
-Convenções e boas práticas
----------------------------
 
-- http://semver.org/
-- http://en.wikipedia.org/wiki/Single_responsibility_principl
-
-[1]: http://iojs.org
-[2]: https://github.com/creationix/nvm
-[3]: http://gulpjs.com/
-[4]: http://browserify.org/
-[5]: http://truongtx.me/2014/08/06/using-watchify-with-gulp-for-fast-browserify-build/
-[6]: http://www.browsersync.io/
-[7]: http://facebook.github.io/react/
-[8]: https://muut.com/riotjs/compare.html
-[9]: http://koajs.com/
-[10]: https://www.mozilla.org/en-US/firefox/developer/
-[11]: http://zedapp.org/
-[12]: http://git-scm.com/
-[13]: http://git-cola.github.io
-[14]: http://www.invisionapp.com/
-[15]: http://formatjs.io/react/
-[16]: http://issuestats.com/
-[17]: https://github.com/cheeriojs/cheerio
-[18]: https://github.com/harthur/nomnom
+[iojs]: http://iojs.org
+[nvm]: https://github.com/creationix/nvm
+[gulp]: http://gulpjs.com/
+[browserify]: http://browserify.org/
+[watchify]: http://truongtx.me/2014/08/06/using-watchify-with-gulp-for-fast-browserify-build/
+[browsersync]: http://www.browsersync.io/
+[react]: http://facebook.github.io/react/
+[riotjs]: https://muut.com/riotjs/compare.html
+[koa]: http://koajs.com/
+[firefoxdev]: https://www.mozilla.org/en-US/firefox/developer/
+[zed]: http://zedapp.org/
+[git]: http://git-scm.com/
+[gitcola]: http://git-cola.github.io
+[invision]: http://www.invisionapp.com/
+[reactjs]: http://formatjs.io/react/
+[issuestats]: http://issuestats.com/
+[cheerio]: https://github.com/cheeriojs/cheerio
+[nomnom]: https://github.com/harthur/nomnom
+[crosswalk]: https://crosswalk-project.org/
+[phaserjs]: http://phaser.io/

@@ -1,6 +1,7 @@
 # React
 
 - mensagens de erro bem didáticas no console
+- JSX parece uma má ideia mas nao é, parece feio mas vc se acostuma
 
 ## Componentes
 
